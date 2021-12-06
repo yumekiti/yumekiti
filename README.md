@@ -7,4 +7,4 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 ![Counter](https://profile-counter.glitch.me/yumekiti/count.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=portfolio-react)](https://github.com/OkazakiRui/portfolio-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yumekiti&repo=Laravel)](https://github.com/yumekiti/Laravel)
