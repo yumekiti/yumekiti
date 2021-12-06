@@ -7,4 +7,4 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 ![Counter](https://profile-counter.glitch.me/yumekiti/count.svg)
 
-https://github.com/OkazakiRui/mouseStoker
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OkazakiRui&repo=portfolio-react)](https://github.com/OkazakiRui/portfolio-react)
