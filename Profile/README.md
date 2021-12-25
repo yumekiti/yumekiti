@@ -92,7 +92,7 @@
   - https://github.com/yumekiti/door-logger
   - https://github.com/yumekiti/TodoApi
 - 2年次
-  - https://github.com/pantasystem/Stocklist
+  - https://github.com/yumekiti/Stocklist
   - https://github.com/yumekiti/SchoolApp-Api
   - https://github.com/yumekiti/Reviewer
   - https://github.com/yumekiti/sikisyoku
