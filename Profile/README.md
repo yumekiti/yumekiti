@@ -3,7 +3,7 @@
 
 ## 現職
 - ECCコンピュータ専門学校
-  - 元2年生
+  - 2年生
 
 ## 出身
 - 日本
@@ -81,6 +81,7 @@
   - チョコットランド
 - サバゲー
 - アニメ
+  - ファンタジー系
 
 ## 資格
 - 基本情報技術者
@@ -106,7 +107,5 @@
   - https://github.com/yumekiti/qr_rally
 
 ## SNS
-- GitHub
-  - https://github.com/yumekiti
 - Twitter
   - https://twitter.com/yumekiti1204
