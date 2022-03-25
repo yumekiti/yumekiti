@@ -30,6 +30,7 @@
     - main
       - Laravel
       - Express.js
+      - NestJS
       - FastAPI
     - sub
       - Flask
@@ -41,10 +42,13 @@
       - Vue.js
       - Vuetify
       - React.js
+      - Next.js
+      - Aleph.js
     - sub
       - Alpine.js
       - jQuery
       - Bootstrap
+      - Tailwind CSS
 - アプリ
   - Android Studio
 - インフラ
@@ -54,17 +58,27 @@
   - BIND9
   - Samba
   - Docker
+  - Kubernetes
   - SSH
 - エディタ
   - Atom
   - VSCode
 - その他
   - Node.js
+  - Deno
   - Makefile
   - Git
   - GitHub
   - Figma
   - Vercel
+  - Prisma
+  - TypeORM
+  - GraphQL
+  - Apollo GraphQL
+  - Yjs
+
+## 好き
+deno
 
 ## 趣味
 - キャンプ
