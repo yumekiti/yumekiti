@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumekiti&label=Profile%20views&color=0e75b6&style=flat" alt="yumekiti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumekiti" alt="yumekiti" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumekiti&column=4&margin-w=30&margin-h=30" alt="yumekiti" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yumekiti1204" target="blank"><img src="https://img.shields.io/twitter/follow/yumekiti1204?logo=twitter&style=for-the-badge" alt="yumekiti1204" /></a> </p>
 
