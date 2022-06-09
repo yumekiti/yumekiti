@@ -25,5 +25,3 @@
 <a href="https://github.com/yumekiti">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumekiti&layout=compact" />
 </a>
-
-![Counter](https://profile-counter.glitch.me/yumekiti/count.svg)
