@@ -21,9 +21,9 @@
 
 <p align="center">
   <a href="https://github.com/yumekiti">
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=yumekiti&count_private=true&show_icons=true" />
+    <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=yumekiti&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/yumekiti">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumekiti&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumekiti&layout=compact" />
   </a>
 </p>
