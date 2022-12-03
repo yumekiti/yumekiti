@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.yumekiti.net/](https://portfolio.yumekiti.net/)
 
+- Blog: [https://blog.yumekiti.net/](https://blog.yumekiti.net/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yumekiti1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yumekiti1204" height="30" width="40" /></a>
