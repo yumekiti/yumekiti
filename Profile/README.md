@@ -32,30 +32,35 @@
 - フレームワーク
   - バックエンド
     - main
+      - Strapi
       - Laravel
       - Express.js
       - NestJS
       - Echo
     - sub
+      - Hasura
       - FastAPI
       - Flask
       - Django
       - gin-gonic/gin
       - Rails
+      - Prisma
   - フロントエンド
     - main
-      - Vue.js
-      - Vuetify
       - React.js
       - Next.js
       - Aleph.js
+      - Tailwind CSS
     - sub
+      - Vue.js
+      - Vuetify
       - Alpine.js
       - jQuery
       - Bootstrap
-      - Tailwind CSS
+      - Deno
 - アプリ
   - Android Studio
+  - Capacitor
 - インフラ
   - Mysql
   - Apache HTTP Server
@@ -67,28 +72,42 @@
   - Docker
   - Kubernetes
   - SSH
+  - Cloudflare
+  - Terraform
+  - Ansible
+  - Proxmox
+  - LXC
+  - VirtualBox
 - エディタ
   - Atom
   - VSCode
+  - Vim
+- デザイン
+  - Figma
+- メモ
+  - Notion
+  - HackMD
 - その他
+  - Husky
   - Node.js
-  - Deno
   - Makefile
   - Git
   - GitHub
-  - Figma
   - Vercel
   - Netlify
   - Railway
-  - Cloudflare
   - 自宅サーバー
-  - Prisma
   - TypeORM
   - GraphQL
   - Apollo GraphQL
+  - OpenAPI
+  - GNS3
+  - GoogleAnalytics
 
 ## 好き
 
+- Web関連
+- マネジメント
 - Deno
 
 ## 趣味
@@ -144,6 +163,13 @@
   - https://github.com/yumekiti/Remote_for_Slides
   - https://github.com/yumekiti/shokusuru
   - https://github.com/yumekiti/eccSchoolApp-api
+  - https://github.com/yumekiti/remote_for_slides
+  - https://github.com/yumekiti/genshin
+  - https://github.com/yumekiti/terraform
+  - https://github.com/yumekiti/PiyoMiru
+  - https://github.com/yumekiti/blog-client
+  - https://github.com/yumekiti/ClubsActivity
+  - 
 
 ## SNS
 
